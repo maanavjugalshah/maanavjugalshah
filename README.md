@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I'm a Computer Engineering student at Purdue University with a passion for building **intelligent autonomous systems**—from drone swarms to computer vision-powered robotics.
+I'm a Junior Computer Engineering student at Purdue University with a passion for building **intelligent autonomous systems**—from drone swarms to computer vision-powered robotics.
 
 I love working at the intersection of:
 
